@@ -80,7 +80,7 @@ theme_mode: dark  # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://us.123rf.com/450wm/snaidjer/snaidjer2004/snaidjer200401024/145025100-simple-illustration-logo-design-security-combining-shield-and-lock-.jpg?ver=6
+img_cdn: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUZWSYpZzrv8X3PWYAJJ5Ib_82G4zN4p_gQA&usqp=CAU
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
